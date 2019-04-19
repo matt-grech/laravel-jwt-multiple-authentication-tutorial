@@ -1,7 +1,7 @@
-# Multiple authentication guards using JWTs for a laravel 5.8 API #
+# Multiple login JWT tutorial for laravel 5.8 #
 
 ## Introduction ##
-This example is the result of the tutorial [Multiple authentication guards using JWTs for a laravel 5.8 API](https://www.matt-grech.com/blog/laravel-jwt-multiple-authentication-tutorial).
+This example is the result of the tutorial [Multiple login JWT tutorial for laravel 5.8](https://www.matt-grech.com/blog/multiple-login-jwt-tutorial-laravel-5-8/).
 
 ## Setup ##
 ```bash
